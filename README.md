@@ -33,8 +33,6 @@
 
 </details>
 
-<br />
-
 <details><summary><strong>Languages</strong></summary>
 ( most experience ➡ less experience)
 
