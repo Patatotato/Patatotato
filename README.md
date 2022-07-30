@@ -16,7 +16,6 @@
 <a href="https://github.com/jstrieb/github-stats">
 
 ![](https://raw.githubusercontent.com/PathonScript/GithubStats/master/generated/overview.svg)
-
 ![](https://raw.githubusercontent.com/pathonscript/githubstats/master/generated/languages.svg)
 
 </a>
