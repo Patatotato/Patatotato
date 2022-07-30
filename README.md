@@ -14,7 +14,10 @@
 <br />
 
 
-<details><summary><strong>Technologies I have experience with </strong></summary>
+![Github overview stats](https://raw.githubusercontent.com/pathonscript/githubstats/master/generated/overview.svg#gh-light-mode-only)
+![Github languages stats](https://raw.githubusercontent.com/pathonscript/githubstats/master/generated/languages.svg#gh-light-mode-only)
+
+<!-- <details><summary><strong>Technologies I have experience with </strong></summary>
 ( most experience ➡ less experience)
 
 <br />
@@ -46,7 +49,7 @@
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 </details>
-
+ -->
 
 
 
