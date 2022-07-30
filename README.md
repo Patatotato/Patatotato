@@ -1,11 +1,10 @@
-<h1 align="center">
-  <br>
-  Hi👋 
-  
-  I'm Pat
-  </br>
 
-![Penguin Dance](./clubpenguin.gif)
+<h1>
+  Hi👋,
+  I'm Pat 
+  
+  I code webs, bots, idk.
+  <img align="right" src="clubpenguin.gif" width="50"/>
 
 </h1>
 
@@ -20,10 +19,8 @@
 
 </a>
 
-<!-- <details><summary><strong>Technologies I have experience with </strong></summary>
-( most experience ➡ less experience)
-
-<br />
+<details><summary><strong>Tools I use</strong></summary>
+( often used ➡ rarely used)
 
 ![image](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -38,7 +35,7 @@
 
 <br />
 
-<details><summary><strong>Programming languages I'm familiar with</strong></summary>
+<details><summary><strong>Languages</strong></summary>
 ( most experience ➡ less experience)
 
 <br />
@@ -52,7 +49,7 @@
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 </details>
- -->
+
 
 
 
