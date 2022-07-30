@@ -13,9 +13,13 @@
 
 <br />
 
+<a href="https://github.com/jstrieb/github-stats">
 
-![Github overview stats](https://raw.githubusercontent.com/pathonscript/githubstats/master/generated/overview.svg#gh-light-mode-only)
-![Github languages stats](https://raw.githubusercontent.com/pathonscript/githubstats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/PathonScript/GithubStats/master/generated/overview.svg)
+
+![](https://raw.githubusercontent.com/pathonscript/githubstats/master/generated/languages.svg)
+
+</a>
 
 <!-- <details><summary><strong>Technologies I have experience with </strong></summary>
 ( most experience ➡ less experience)
