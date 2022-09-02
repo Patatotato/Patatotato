@@ -14,12 +14,15 @@
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://raw.githubusercontent.com/PathonScript/GithubStats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/pathonscript/githubstats/master/generated/languages.svg)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PathonScript&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PathonScript&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PathonScript&theme=github_dark&utcOffset=7)
 
 </a>
 
 <details><summary><strong>Tools I use</strong></summary>
+
 
 ![image](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
