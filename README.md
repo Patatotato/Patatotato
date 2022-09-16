@@ -1,27 +1,34 @@
 
-<h1>
-  👋Hi,
-  I'm Pat 
-  
-  I code webs, bots, idk.
-  <img align="right" src="clubpenguin.gif" width="50"/>
+<div>
 
-</h1>
+  <h1>
+    👋Hi,
+    I'm Pat 
+  </h1>
 
-<h4 align="center">Eat • Sleep • Play Games • Sleep • Sleep • Sleep </h4>
+  <h2>
+    <img align="right" src="clubpenguin.gif" width="50"/>
+    I code webs, bots, anything fun
+  </h2>
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PathonScript/PathonScript/output/snake.svg" alt="Github Snake"/>
+</div>
+
+<h5 align="center">Eat • Sleep • Play Games • Sleep • Sleep • Sleep </h4>
 
 <br />
 
-<a href="https://github.com/jstrieb/github-stats">
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PathonScript&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PathonScript&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PathonScript&theme=github_dark&utcOffset=7)
 
 </a>
 
-<details><summary><strong>Tools I use</strong></summary>
+<!-- <details></details> for dropdown-->
+<!-- <summary></summary> for dropdown title -->
+
+<div align="center">
+<h2>Tools I use</h2>
 
 
 ![image](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
@@ -34,11 +41,10 @@
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-</details>
+</div>
 
-<details><summary><strong>Languages</strong></summary>
-
-<br />
+<div align="center">
+<h2>Languages</h2>
 
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -48,8 +54,22 @@
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-</details>
+</div>
 
 
 
 
+
+
+
+
+
+
+<!-- Archived -->
+
+<!-- <a href="https://github.com/jstrieb/github-stats">
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PathonScript&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PathonScript&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PathonScript&theme=github_dark&utcOffset=7) -->
