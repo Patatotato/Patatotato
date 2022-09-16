@@ -1,17 +1,7 @@
+<h1>Hi 👋, I'm Pat</h1>
+<img align="right" src="clubpenguin.gif" width="50"/>
+<h3>I code webs, bots, anything fun</h3>
 
-<div>
-
-  <h1>
-    👋Hi,
-    I'm Pat 
-  </h1>
-
-  <h2>
-    <img align="right" src="clubpenguin.gif" width="50"/>
-    I code webs, bots, anything fun
-  </h2>
-
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PathonScript/PathonScript/output/snake.svg" alt="Github Snake"/>
