@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Pat</h1>
 <img align="right" src="clubpenguin.gif" width="50"/>
-<h3>I code webs, bots, anything fun</h3>
+<h3>I'm a student, Web Developer, Gamer based in Thailand</h3>
 
 
 <div align="center">
