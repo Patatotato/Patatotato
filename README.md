@@ -6,6 +6,7 @@ I’m a fullstack dev, artist, designer and a student from Thailand. I'm into cr
     <img src="https://skillicons.dev/icons?i=svelte,react,scss,threejs,vite,nodejs,nextjs,firebase,figma,blender" />
   </a>
 
+
 <details>
   <summary>Other tools I use</summary>
   <a href="https://skillicons.dev">
@@ -16,8 +17,6 @@ I’m a fullstack dev, artist, designer and a student from Thailand. I'm into cr
     <img src="https://skillicons.dev/icons?i=ts,js,html,css,c,cpp,cs,go,py,rust" />
   </a>
 </details>
-
-<img align="right" src="clubpenguin.gif" width="50"/>
 
 <details>
   <summary>Stats 📈</summary>
@@ -30,6 +29,10 @@ I’m a fullstack dev, artist, designer and a student from Thailand. I'm into cr
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=wnbr7igwd22c214kz1c0kzwml&count=1})
 
 </details>
+
+
+<img align="right" src="clubpenguin.gif" width="50"/>
+
 
 <!-- <div align="center">
 
