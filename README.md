@@ -6,6 +6,7 @@ I’m a fullstack dev, artist, designer and a student from Thailand. I'm into cr
     <img src="https://skillicons.dev/icons?i=svelte,react,scss,threejs,vite,nodejs,nextjs,firebase,figma,blender" />
   </a>
 
+<br />
 
 <details>
   <summary>Other tools I use</summary>
