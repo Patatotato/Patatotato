@@ -42,4 +42,3 @@ I’m a fullstack dev, artist, designer and a student from Thailand. I'm into cr
 <!-- <details></details> for dropdown-->
 <!-- <summary></summary> for dropdown title -->
 
-<br />
