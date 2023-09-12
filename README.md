@@ -6,6 +6,8 @@ I’m a fullstack dev, artist, designer and a student from Thailand. I'm into cr
     <img src="https://skillicons.dev/icons?i=svelte,react,scss,threejs,vite,nodejs,nextjs,firebase,figma,blender" />
   </a>
 
+<br />
+
 <details>
   <summary>Other tools I use</summary>
   <a href="https://skillicons.dev">
@@ -24,12 +26,9 @@ I’m a fullstack dev, artist, designer and a student from Thailand. I'm into cr
 
 [![wakatime](https://wakatime.com/badge/user/2282bc4f-b4d8-4c70-b8f3-cb906238173b.svg)](https://wakatime.com/@2282bc4f-b4d8-4c70-b8f3-cb906238173b)
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=wnbr7igwd22c214kz1c0kzwml&count=1})
-
 </details>
 
 
-<img align="right" src="clubpenguin.gif" width="50"/>
 
 
 <!-- <div align="center">
