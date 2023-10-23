@@ -20,8 +20,7 @@ I’m a fullstack dev, artist, designer and a student from Thailand. I'm into cr
 </details>
 <details>
   <summary>Stats 📈</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=PatatoBit&theme=ayu-mirage&count_private=true&hide_border=true&line_height=20)</a>
+
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatatoBit&layout=compact&theme=ayu-mirage&count_private=true&hide_border=true)</a>
 
 [![wakatime](https://wakatime.com/badge/user/2282bc4f-b4d8-4c70-b8f3-cb906238173b.svg)](https://wakatime.com/@2282bc4f-b4d8-4c70-b8f3-cb906238173b)
